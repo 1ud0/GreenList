@@ -1,5 +1,5 @@
 package com.tac.entity;
 
-public class Bidon {
+public class Casserole {
 
 }
