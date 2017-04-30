@@ -4,6 +4,6 @@ public class Casserole {
 
 	public static void main(String[] args) {
 
-		coucou;
+		String coucou;
 	}
 }
