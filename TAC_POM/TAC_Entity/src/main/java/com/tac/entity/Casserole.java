@@ -6,5 +6,6 @@ public class Casserole {
 
 		int couo;
 		String coucou;
+		int z = 2;
 	}
 }
