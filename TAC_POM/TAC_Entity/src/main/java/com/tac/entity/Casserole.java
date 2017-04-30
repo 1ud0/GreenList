@@ -7,6 +7,7 @@ public class Casserole {
 		String ajoutBranche1;
 		String ajoutBranche2;
 		int coucou;
+		int bonjour;
 	}
 	
 }
