@@ -5,6 +5,6 @@ public class Casserole {
 	public static void main(String[] args) {
 
 		String coucou;
-		String z = "2";
+		String z = "d2";
 	}
 }
