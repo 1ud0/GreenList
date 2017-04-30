@@ -4,6 +4,7 @@ public class Casserole {
 
 	public static void main(String[] args) {
 
+		int couo;
 		String coucou;
 	}
 }
