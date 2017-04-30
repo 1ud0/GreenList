@@ -6,6 +6,7 @@ public class Casserole {
 		String ajoutmain;
 		String ajoutBranche1;
 		String ajoutBranche2;
+		int coucou;
 	}
 	
 }
