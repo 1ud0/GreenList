@@ -8,6 +8,7 @@ public class Casserole {
 		String ajoutBranche2;
 		int coucou;
 		int bonjour;
+		System.out.println("salutations");
 	}
 	
 }
